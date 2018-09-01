@@ -2,7 +2,7 @@
 
 This Command Line Interface game uses Node.js object constructors to power the classic game of Hangman!
 
-![Screenshot](https://cdt12988.github.io/images/portfolio/hangmancli.jpg "Hangman CLI Screenshot")
+![Screenshot](https://cdt12988.github.io/images/portfolio/hangmanCLI.jpg "Hangman CLI Screenshot")
 
 ## Getting Started
 
