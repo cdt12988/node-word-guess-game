@@ -1,0 +1,30 @@
+{
+  "name": "word-guess-game",
+  "version": "1.0.0",
+  "description": "Word Guess (Hangman) command line game written in Node.js using a modular approach with object constructors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdt12988/node-word-guess-game.git"
+  },
+  "keywords": [
+    "node.js",
+    "word",
+    "guess",
+    "game",
+    "hangman",
+    "constructors"
+  ],
+  "author": "Cody Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdt12988/node-word-guess-game/issues"
+  },
+  "homepage": "https://github.com/cdt12988/node-word-guess-game#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
